@@ -19,7 +19,7 @@ C++ implementation of an LRU cache with disk persistence. Restores state across 
 
 **[Anime Embedding Explorer](https://github.com/EteEteKu/AnimeEmbeddingExplorer)**  
 Semantic search and visualization over anime datasets using neural embeddings.  
-`PyTorch` · `Embeddings` · `Vector Search`
+`Sentence Bert` · `Embeddings` · `Pandas Numpy`
 
 **[anime_parser](https://github.com/EteEteKu/anime_parser)**  
 Distributed scraper for anime metadata with structured output.  
